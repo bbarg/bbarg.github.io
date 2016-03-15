@@ -1,3 +1,7 @@
+---
+title: Post Wall Project
+---
+
 # Post Wall Project
 
 Today you'll be adding a page to your profile where other people can
