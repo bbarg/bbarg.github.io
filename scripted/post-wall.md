@@ -6,7 +6,7 @@ title: Post Wall Project
 
 Today you'll be adding a page to your profile where other people can
 post comments on your site, kind of like a Facebook wall! You can see
-an example [here](http://bbarg.github.io/post_wall.html).
+an example [here](http://bbarg.github.io/scripted/post_wall.html).
 
 ## Get your workspace set up
 
