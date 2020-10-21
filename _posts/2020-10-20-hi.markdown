@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Hi :)"
+date:   2020-10-20 21:23:13 -0400
+categories: update
+---
+
+Welcome friends!
+
+There's not much here yet, but I'm excited to have my own space to
+share things with you all.
+
+In the meantime, let's catch up! Send me an e-mail at `hi (at) ben
+(dot) community` and include your favorite stupid YouTube video.
