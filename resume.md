@@ -13,6 +13,15 @@ permalink: /resume/
 
 # Experience
 
+**Voltus,** Remote, Summer 2021 - present\
+*Senior Software Engineer*
+
+-   Building ELT-style data pipeline to ingest Salesforce data into
+    Clickhouse and perform data quality checks for analytics use-cases
+
+-   Tech lead for project to capture ~$100,000 in unbilled revenue
+    from smart meter service charges
+
 **Cityblock Health,** Brooklyn, NY, Summer 2018 - Summer 2020\
 *Staff Software Engineer*
 
