@@ -35,3 +35,5 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
 
+# required as of Ruby 3.x, as it's no longer part of the standard library
+gem "webrick"
